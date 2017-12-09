@@ -1,0 +1,412 @@
+{
+	"cn": {
+		"header": {
+			"langList": [
+				"中",
+				"英"
+			],
+			"titleList": [
+				{
+					"svg": "img/d_home.svg",
+					"title": "首页"
+				}, {
+					"svg": "img/d_info.svg",
+					"title": "关于我"
+				}, {
+					"svg": "img/d_skills.svg",
+					"title": "技能栈"
+				}, {
+					"svg": "img/d_exp.svg",
+					"title": "经历"
+				}, {
+					"svg": "img/d_works.svg",
+					"title": "作品集"
+				}, {
+					"svg": "img/d_contact.svg",
+					"title": "联系我"
+				}
+			]
+		},
+		"footer": {},
+		"default": {
+			"quote": "伯乐千里来寻马，马不停蹄来相会",
+			"desList": [
+				"我叫郭佳兴",
+				"一名前端开发工程师",
+				"jiaxing2658@sina.com"
+			]
+		},
+		"info": {
+			"title": "关于我",
+			"infoList": [
+				{
+					"icon": "img/i_age.svg",
+					"key": "年龄",
+					"value": "25岁"
+				}, {
+					"icon": "img/i_edu.svg",
+					"key": "学历",
+					"value": "本科"
+				}, {
+					"icon": "img/i_site.svg",
+					"key": "位置",
+					"value": "北京"
+				}, {
+					"icon": "img/i_status.svg",
+					"key": "状态",
+					"value": "离职"
+				}
+			],
+			"desList": [
+				"三年全职前端开发经验，丰富的实践经验",
+				"熟悉MV*开发,深入自动化,模块化开发之道",
+				"高效的自学能力,具备独立分析解决问题能力",
+				"逻辑性，抗压能力强，强烈的自我驱动力"
+			]
+		},
+		"skill": {
+			"title": "技能栈",
+			"outCircleList": [
+				{
+					"color": "rgba(121,100,102,0.8)",
+					"name": "gulp"
+				}, {
+					"color": "rgba(49,65,82,0.8)",
+					"name": "angular"
+				}, {
+					"color": "rgba(76,157,160,0.8)",
+					"name": "webpack"
+				}, {
+					"color": "rgba(66,66,66,0.8)",
+					"name": "H5"
+				}, {
+					"color": "rgba(193,131,106,0.8)",
+					"name": "git"
+				}, {
+					"color": "rgba(117,148,179,0.8)",
+					"name": "nodejs"
+				}, {
+					"color": "rgba(71,83,94,0.8)",
+					"name": "javascript"
+				}, {
+					"color": "rgba(147,147,189,0.8)",
+					"name": "jquery"
+				}
+			],
+			"innerCircleList": [
+				{
+					"color": "rgba(179,164,140,0.8)",
+					"name": "es6"
+				}, {
+					"color": "rgba(171,209,220,0.8)",
+					"name": "vue"
+				}, {
+					"color": "rgba(238,215,163,0.8)",
+					"name": "css3"
+				}, {
+					"color": "rgba(207,184,178,0.8)",
+					"name": "js库"
+				}
+			],
+			"desList": [
+				"熟练使用vue、angular1.xx及各种类库的指令封装",
+				"常驻PC/H5页面互动开发、注重产品质量、安全、可用性",
+				"熟悉封装组件/插件开发，能脱离库书写原生JS代码进行复用",
+				"Web前沿技术研究和新技术调研，研发高性能的前端技术架构"
+			]
+		},
+		"works": {
+			"title": "作品集",
+			"worksList": [
+				{
+					"title": "掌厨移动端",
+					"des": " 掌厨-视频菜谱网站。拥有最多的美食做法、菜谱、食谱大全以及家常菜菜谱。全站基于HTML5+css3+swiper+jquery+nginx+php等插件进行页面构建和基本功能的实现  以及用户体验的完善。",
+					"url": "http://h5.izhangchu.com"
+				}, {
+					"title": "米兔易选", 
+					"des": " 米兔易选又称易选礼卡为企业客户提供各种商业营销的定制方案，帮助企业提高客户满意度",
+					"url": "http://www.mituyixuan.com"
+				}, { 
+					"title": "吃货行",
+					"des": "针对三线城市本地的美食+外卖的网站系统，使用vue2-vuex-vueRouter-webpack-sass-axios-ES6技术栈进行开发。包括用户信息，商品统计，权限设置，卖家信息，数据交换平台，各个模块的数据管理，反馈设置等等。",
+					"url": "http://www.app8848.com/cloud_mgr/#/user/login"
+				}, {
+					"title": "火柴财富官网",
+					"des": "金融网站开发，兼容IE8+,适配全移动机型，具有良好的兼容性，扩展性，运用Jquery实现页面基本交互功能，bootstrap框架实现响应式布局。",
+					"url": "www.huochaicf.com"
+				}
+			],
+			"viewMore": "查看更多"
+		},
+		"experience": {
+			"title": "经历",
+			"expList": [
+				{
+					"title": "北京莱天未来科技有限公司",
+					"time": "2014/8--2017/11",
+					"post": "web前端开发工程师",
+					"imgUrl": "img/e_js.svg",
+					"tech": "h5,css3,webpack,gulp,git,原生js及若干类库",
+					"contentList": [
+						"根据产品需求，搭建高性能、高可用和安全的前端技术架构",
+						"负责前端代码开发，提升产品性能和用户体验，设备兼容",
+						"手机APP和H5页面互动开发、前端框架设计及组件库开发",
+						"Web前沿技术研究和新技术调研，提升系统性能安全等问题",
+						"同时学习ES6及vue,React，Angular,体会函数式编程思想"
+					]
+				}
+			],
+			"des": "2014年~至今，不断巩固深造自身技能，有一定的开发见解。"
+		},
+		"contact": {
+			"title": "联系我",
+			"desList1": [
+				"灵感",
+				"情感",
+				"创新",
+				"价值"
+			],
+			"desList2": [
+				"注重团队合作，开发效率",
+				"勇于创新，迎接新挑战",
+				"高强度的抗压能力学习能力",
+				"具备独立分析解决问题能力",
+				"携我，一起创造更大的价值"
+			],
+			"download": "下载简历",
+			"fileList": [
+				{
+					"title": "HTML版",
+					"url": "www.baidu.com"
+				}, {
+					"title": "PDF版",
+					"url": "www.baidu.com"
+				}
+			],
+			"typeList": [
+				{
+					"icon": "img/s_github.svg",
+					"url": "https://github.com/GJXings"
+				}, {
+					"icon": "img/s_sf.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_blog.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_zh.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_wb.svg",
+					"url": ""
+				}
+			]
+		}
+	},
+	"en": {
+		"header": {
+			"langList": [
+				"CN",
+				"EN"
+			],
+			"titleList": [
+				{
+					"svg": "img/d_home.svg",
+					"title": "home"
+				}, {
+					"svg": "img/d_info.svg",
+					"title": "about"
+				}, {
+					"svg": "img/d_skills.svg",
+					"title": "skills"
+				}, {
+					"svg": "img/d_exp.svg",
+					"title": "exp"
+				}, {
+					"svg": "img/d_works.svg",
+					"title": "works"
+				}, {
+					"svg": "img/d_contact.svg",
+					"title": "contact"
+				}
+			]
+		},
+		"footer": {},
+		"default": {
+			"quote": "Bole is a thousand miles to find horses, and the horses will come to meet.",
+			"desList": [
+				"I am Guo JiaXing",
+				"A front-end R & D engineer",
+				"jiaxing2658@sina.com"
+			]
+		},
+		"info": {
+			"title": "About Me",
+			"infoList": [
+				{
+					"icon": "img/i_age.svg",
+					"key": "Age",
+					"value": "25"
+				}, {
+					"icon": "img/i_edu.svg",
+					"key": "Edu.",
+					"value": "B.S."
+				}, {
+					"icon": "img/i_site.svg",
+					"key": "Place",
+					"value": "BeiJing"
+				}, {
+					"icon": "img/i_status.svg",
+					"key": "Status",
+					"value": "Quit Job"
+				}
+			],
+			"desList": [
+				"Skillful use of Vue, angular1.xx, and various class libraries",
+				"Interactive development of PC/H5 pages, product quality, security, availability",
+				"Familiar with package component / plug-in development, can be reused from library writing native JS code",
+				"Web frontier technology research and new technology research and research and development of high performance front-end technology architecture"
+			]
+		},
+		"skill": {
+			"title": "Skills",
+			"outCircleList": [
+				{
+					"color": "rgba(121,100,102,0.8)",
+					"name": "gulp"
+				}, {
+					"color": "rgba(49,65,82,0.8)",
+					"name": "angular"
+				}, {
+					"color": "rgba(76,157,160,0.8)",
+					"name": "webpack"
+				}, {
+					"color": "rgba(66,66,66,0.8)",
+					"name": "H5"
+				}, {
+					"color": "rgba(193,131,106,0.8)",
+					"name": "git"
+				}, {
+					"color": "rgba(117,148,179,0.8)",
+					"name": "nodejs"
+				}, {
+					"color": "rgba(71,83,94,0.8)",
+					"name": "javascript"
+				}, {
+					"color": "rgba(147,147,189,0.8)",
+					"name": "jquery"
+				}
+			],
+			"innerCircleList": [
+				{
+					"color": "rgba(179,164,140,0.8)",
+					"name": "es6"
+				}, {
+					"color": "rgba(171,209,220,0.8)",
+					"name": "vue"
+				}, {
+					"color": "rgba(238,215,163,0.8)",
+					"name": "css3"
+				}, {
+					"color": "rgba(207,184,178,0.8)",
+					"name": "js库"
+				}
+			],
+			"desList": [
+				"Skilled use of angularJs1.x and encapsulate all kinds of libraries",
+				"Permanent PC / APP / WeChat three platform front-end research and development",
+				"Good at component / plugin development, can be written out of the library to write JS code",
+				"Coding thinking robustness/scalability/maintainability"
+			]
+		},
+		"works": {
+			"title": "Works",
+			"worksList": [
+				{
+					"title":  "the chef of mobile terminal",
+					"des": "Chef Recipes - VIDEO website. It has the most gourmet practices, recipes, recipes, and family recipes. The whole station is based on HTML5+css3+swiper+jquery+nginx+php and other plug-ins for page building, the realization of basic functions and the consummation of user experience. ",
+					"url": "http://h5.izhangchu.com"
+				}, {
+					"title": "the rice rabbit is easy to choose.",
+					"des":  "Mickey rabbit easy selection also called easy Xuanli card provides customized solutions for various business marketing for enterprise customers, help enterprises to improve customer satisfaction",
+					"url": "http://www.mituyixuan.com"
+				}, {
+					"title": "chowhound line",
+					"des": "on the three line city local food + takeout website system, using the vue2-vuex-vueRouter-webpack-sass-axios-ES6 technology stack to develop. It includes user information, commodity statistics, permission setting, seller information, data exchange platform, data management of each module, feedback settings and so on. ",
+					"url": ""
+				}, {
+					"title": "match wealth official network",
+					"des":  "financial website development, compatible with IE8+, compatible with all mobile models, has good compatibility and expansibility. Using Jquery to achieve basic page interaction function, bootstrap framework implements responsive layout. ",
+					"url": "www.huochaicf.com"
+				}
+			],
+			"viewMore": "See more"
+		},
+		"experience": {
+			"title": "Experience",
+			"expList": [
+				{
+
+					"title": "Beijing Laitian Future Technology Co., Ltd.",
+					"time": "2014/8--2017/11",
+					"post": "Web front-end development engineers",
+					"imgUrl": "img/e_js.svg",
+					"tech": "H5, CSS3, webpack, gulp, GIT, native JS and a number of class libraries",
+					"contentList": [
+						"Building a high performance, high availability, and secure front-end framework based on product requirements",
+						"Responsible for front-end code development, improving product performance and user experience, device compatibility",
+						"Interactive development of mobile APP and H5 pages, front-end framework design and component library development",
+						"Web frontier technology research and new technology research to improve the system performance safety and so on",
+						"At the same time learning ES6 and Vue, React, Angular, experience the idea of functional programming"
+					]
+				}
+			],
+			"des": "2014 to the present, continue to consolidate our own skills, and have some development views. "
+		},
+		"contact": {
+			"title": "Contact Me",
+			"desList1": [
+
+				"INSPIRATION",
+				"EMOTION",
+				"INNOVATE",
+				"VALUE"
+			],
+			"desList2": [
+				"Pay attention to team cooperation and development efficiency",
+				"Be brave in innovation and meet new challenges",
+				"High strength learning ability of compression ability",
+				"Have the ability to analyze and solve problems independently",
+				"Bring me together to create greater value"
+			],
+			"download": "Download Resume",
+			"fileList": [
+				{
+					"title": "HTML",
+					"url": "www.baidu.com"
+				}, {
+					"title": "PDF",
+					"url": "www.baidu.com"
+				}
+			],
+			"typeList": [
+				{
+					"icon": "img/s_github.svg",
+					"url": "https://github.com/GJXings"
+				}, {
+					"icon": "img/s_sf.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_blog.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_zh.svg",
+					"url": ""
+				}, {
+					"icon": "img/s_wb.svg",
+					"url": ""
+				}
+			]
+		}
+	}
+}
